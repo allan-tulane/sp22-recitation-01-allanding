@@ -7,6 +7,7 @@ In this recitation, we will investigate asymptotic complexity. Additionally, we 
 
 To complete this recitation, follow the instructions in this document. Some of your answers will go in this file, and others will require you to edit `main.py`.
 
+## https://colab.research.google.com/drive/14ixmh70IRakU5YzzM14BGDAY3J40bAWG?usp=sharing
 
 ## Setup
 - Make sure you have a Github account.
